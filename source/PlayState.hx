@@ -396,6 +396,14 @@ class PlayState extends MusicBeatState
 					add(stageCurtains);
 				}
 
+           case 'stage': //chacs
+				var bg:BGSprite = new BGSprite('bg/sonic', -120, -180, 0.9, 0.9);
+				add(bg);
+
+           case 'stage': //chacs
+				var bg:BGSprite = new BGSprite('bg/fleet', -120, -180, 0.9, 0.9);
+				add(bg);
+
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
 					halloweenBG = new BGSprite('halloween_bg', -200, -100, ['halloweem bg0', 'halloweem bg lightning strike']);
