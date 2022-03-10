@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speedmarioattackblj.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario 1Attack0000" x="12" y="12" width="358" height="490" frameX="-257" frameY="-40" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0001" x="382" y="12" width="0" height="0" frameX="-309" frameY="-362" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0002" x="394" y="12" width="402" height="472" frameX="-245" frameY="-13" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0003" x="382" y="12" width="0" height="0" frameX="-309" frameY="-362" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0004" x="12" y="12" width="358" height="490" frameX="-222" frameY="-41" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0005" x="382" y="12" width="0" height="0" frameX="-309" frameY="-362" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0006" x="394" y="12" width="402" height="472" frameX="-192" frameY="-24" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0007" x="382" y="12" width="0" height="0" frameX="-309" frameY="-362" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0008" x="12" y="12" width="358" height="490" frameX="-141" frameY="-71" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0009" x="382" y="12" width="0" height="0" frameX="-309" frameY="-362" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0010" x="394" y="12" width="402" height="472" frameX="-101" frameY="-68" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0011" x="808" y="12" width="402" height="460" frameX="-100" frameY="-76" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0012" x="12" y="12" width="358" height="490" frameX="-71" frameY="-110" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0013" x="394" y="12" width="402" height="472" frameX="-73" frameY="-87" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0014" x="12" y="12" width="358" height="490" frameX="-53" frameY="-124" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0015" x="394" y="12" width="402" height="472" frameX="-58" frameY="-103" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0016" x="12" y="12" width="358" height="490" frameX="-42" frameY="-142" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0017" x="394" y="12" width="402" height="472" frameX="-52" frameY="-122" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0018" x="12" y="12" width="358" height="490" frameX="-31" frameY="-161" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0019" x="394" y="12" width="402" height="472" frameX="-44" frameY="-142" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0020" x="12" y="12" width="358" height="490" frameX="-28" frameY="-179" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0021" x="394" y="12" width="402" height="472" frameX="-42" frameY="-156" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0022" x="12" y="12" width="358" height="490" frameX="-26" frameY="-190" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0023" x="394" y="12" width="402" height="472" frameX="-34" frameY="-166" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0024" x="12" y="12" width="358" height="490" frameX="-29" frameY="-213" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0025" x="1222" y="12" width="444" height="552" frameX="0" frameY="-184" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0026" x="12" y="576" width="463" height="559" frameX="-13" frameY="-162" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0027" x="487" y="576" width="436" height="552" frameX="-11" frameY="-201" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0028" x="935" y="576" width="463" height="548" frameX="-40" frameY="-193" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0029" x="1410" y="576" width="541" height="552" frameX="-20" frameY="-221" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0030" x="12" y="1147" width="463" height="544" frameX="-146" frameY="-229" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0031" x="487" y="1147" width="499" height="527" frameX="-199" frameY="-258" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0032" x="998" y="1147" width="484" height="533" frameX="-354" frameY="-237" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0033" x="12" y="1703" width="781" height="515" frameX="-453" frameY="-282" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0034" x="805" y="1703" width="1056" height="355" frameX="-730" frameY="-341" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0035" x="12" y="2230" width="1481" height="279" frameX="-1014" frameY="-281" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0036" x="12" y="2521" width="1416" height="325" frameX="-1493" frameY="-201" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0037" x="12" y="2858" width="1524" height="337" frameX="-1954" frameY="-106" frameWidth="4181" frameHeight="797"/>
+	<SubTexture name="Mario 1Attack0038" x="12" y="3207" width="1620" height="371" frameX="-2561" frameY="0" frameWidth="4181" frameHeight="797"/>
+</TextureAtlas>
