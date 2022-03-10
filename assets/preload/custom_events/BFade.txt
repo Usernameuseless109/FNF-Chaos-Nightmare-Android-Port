@@ -1,0 +1,2 @@
+Value1 transparant
+Value2 time
