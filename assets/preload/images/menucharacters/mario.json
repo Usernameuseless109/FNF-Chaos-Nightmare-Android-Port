@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Mario",
+	"position": [
+		0,
+		-100
+	],
+	"scale": 1,
+	"idle_anim": "Mario menu asset",
+	"confirm_anim": "Mario menu asset"
+}
