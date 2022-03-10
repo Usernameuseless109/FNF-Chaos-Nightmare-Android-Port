@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario Idle"
+		},
+		{
+			"offsets": [
+				54,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hey",
+			"indices": [],
+			"name": "Mario Star"
+		},
+		{
+			"offsets": [
+				30,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario Forward"
+		},
+		{
+			"offsets": [
+				10,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario Fire"
+		},
+		{
+			"offsets": [
+				58,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario Kick"
+		},
+		{
+			"offsets": [
+				14,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario LongJump"
+		},
+		{
+			"offsets": [
+				120,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Oof",
+			"indices": [],
+			"name": "Mario Oof"
+		},
+		{
+			"offsets": [
+				0,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Up",
+			"indices": [],
+			"name": "Mario Up"
+		},
+		{
+			"offsets": [
+				0,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "Mario Jump"
+		},
+		{
+			"offsets": [
+				276,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Mario 1Attack"
+		},
+		{
+			"offsets": [
+				-2,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "here",
+			"loop": false,
+			"name": "Mario Herewego"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/speedmario",
+	"position": [
+		200,
+		-10
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		45,
+		50
+	],
+	"camera_position": [
+		-1690,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
