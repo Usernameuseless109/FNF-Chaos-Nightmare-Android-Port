@@ -339,6 +339,8 @@ class PlayState extends MusicBeatState
 					curStage = 'stage';
 				case 'phantasm':
 					curStage = 'fleet';
+				case 'sprint':
+					curStage = 'place';
 			}
 		}
 
@@ -397,11 +399,15 @@ class PlayState extends MusicBeatState
 				}
 
            case 'stage': //chacs
-				var bg:BGSprite = new BGSprite('bg/sonic', -120, -180, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('sonic', -600, -200, 0.9, 0.9);
 				add(bg);
 
-           case 'stage': //chacs
-				var bg:BGSprite = new BGSprite('bg/fleet', -120, -180, 0.9, 0.9);
+            case 'stage': //chacs
+				var bg:BGSprite = new BGSprite('fleet', -120, -200, 0.9, 0.9);
+				add(bg);
+				
+			case 'stage': //speed
+				var bg:BGSprite = new BGSprite('bg1', -600, -600, 0.9, 0.9);
 				add(bg);
 
 			case 'spooky': //Week 2
