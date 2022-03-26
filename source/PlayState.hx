@@ -340,7 +340,7 @@ class PlayState extends MusicBeatState
 				case 'phantasm':
 					curStage = 'fleet';
 				case 'sprint':
-					curStage = 'place';
+					curStage = 'Place';
 			}
 		}
 
