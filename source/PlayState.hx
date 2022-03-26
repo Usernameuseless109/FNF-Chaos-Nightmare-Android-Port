@@ -337,9 +337,9 @@ class PlayState extends MusicBeatState
 					curStage = 'schoolEvil';
 				default:
 					curStage = 'stage';
-				case 'phantasm';
+				case 'phantasm':
 					curStage = 'fleet';
-				case 'sprint';
+				case 'sprint':
 					curStage = 'place';
 			}
 		}
