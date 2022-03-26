@@ -341,7 +341,6 @@ class PlayState extends MusicBeatState
 					curStage = 'fleet';
 				case 'sprint';
 					curStage = 'place';
-					
 			}
 		}
 
